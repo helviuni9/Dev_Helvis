@@ -1,9 +1,9 @@
 ### Olá meu Nome é Helvis castro 👋
 
 - 💻 Desenvolvedor Back-end
-- 🌱 desbravando java e spring boot
- - 👯 contate-me e-mail: helviscastro4@gmail.com
-- 🎉 Em busca Da minha Primeira oportunidade.
+  - 🌱 Desbravando java e spring boot
+   - 👯 contate-me e-mail: helviscastro4@gmail.com
+    - 🎉 Em busca Da minha Primeira oportunidade.
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=helviuni9&show_icons=true&theme=radical)
 
