@@ -1,7 +1,7 @@
 ### Olá meu Nome é Helvis castro 👋
 
 - 💻 Desenvolvedor Back-end
-  - 🌱 Desbravando java e spring boot
+  - 🌱 Desbravando C#/.NET, ASP.NET CORE
    - 👯 contate-me e-mail: helviscastro4@gmail.com
     - 🎉 Em busca Da minha Primeira oportunidade.
   
