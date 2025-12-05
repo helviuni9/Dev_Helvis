@@ -1,8 +1,7 @@
 ### Olá meu Nome é Helvis castro 👋
 
-- 💻 Desenvolvedor Back-end
-  - 🌱 Desbravando C# |.NET | ASP.NET
-   - 👯 contate-me e-mail: helviscastro4@gmail.com
+- 💻 Desenvolvedor.NET | ASP.NET CORE | Linux engineering | Linux network administrator | PostegreSQL | 
+   - 👯 contate-me e-mail: helviscastro4@gmail.com | castro.helvis@uni9.edu.br
     - 🎉 Em busca Da minha Primeira oportunidade.
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=helviuni9&show_icons=true&theme=radical)
