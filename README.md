@@ -30,6 +30,10 @@ I'm focused on building real-world infrastructure environments and improving my 
 
 
 <div style="display: inline_block"><br>
+  
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+![.NET](https://img.shields.io/badge/.NET-purple?style=for-the-badge&logo=dotnet)
   <img align="center" alt="Helvis-C#" height="50" width="50" src="https://img.icons8.com/?size=100&id=Fycm8TUhWmFU&format=png&color=000000">     
 </div>
 
