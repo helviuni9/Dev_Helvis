@@ -1,8 +1,40 @@
-### Olá meu Nome é Helvis castro 👋
+# Hi, I'm Helvis 👋
 
-- 💻 Desenvolvedor.NET | ASP.NET CORE | Linux engineering | Linux network administrator | PostegreSQL | 
-   - 👯 contate-me e-mail: helviscastro4@gmail.com | castro.helvis@uni9.edu.br
-    - 🎉 Em busca Da minha Primeira oportunidade.
+💻 Infrastructure & DevOps  
+🐧 Linux | Networking | Automation  
+⚙️ Building and learning with .NET  
+
+---
+
+## 🚀 About Me
+
+I'm focused on building real-world infrastructure environments and improving my skills in Linux, networking, and DevOps practices.
+
+---
+
+## 🛠 Tech Stack
+
+- Linux (Ubuntu)
+- Networking fundamentals
+- Bash scripting
+- Docker (learning)
+- .NET / ASP.NET Core
+- PostgreSQL
+
+---
+
+## 📌 Featured Projects
+
+- 🖥 Linux Server Setup (in progress)
+- 🔐 Auth API (.NET)
+- ⚙️ DevOps Lab (coming soon)
+
+---
+
+## 📫 Contact
+
+- LinkedIn: (coloca aqui)
+- Email: seuemail@email.com
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=helviuni9&show_icons=true&theme=radical)
 
