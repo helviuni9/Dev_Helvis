@@ -37,8 +37,8 @@ I'm focused on building real-world infrastructure environments and improving my 
 
 <div>
   <a href="https://www.linkedin.com/in/helviscastro" target="_blank"><img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/helviscastro" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=yellow"></a>
-  <a href="https://www.linkedin.com/in/helviscastro" target="_blank"><img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=blue"></a>
-  <a href="https://www.linkedin.com/in/helviscastro" target="_blank"><img src="https://img.shields.io/badge/.NET-purple?style=for-the-badge&logo=dotnet&logoColor=purple"></a>
+  <a href="https://www.linkedin.com/in/helviscastro" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/helviscastro" target="_blank"><img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/helviscastro" target="_blank"><img src="https://img.shields.io/badge/.NET-purple?style=for-the-badge&logo=dotnet&logoColor=white"></a>
 
 </div>
