@@ -10,15 +10,11 @@
 
 I'm focused on building real-world infrastructure environments and improving my skills in Linux, networking, and DevOps practices.
 
----
-
-## 🛠 Tech Stack
-
-- Linux (Ubuntu)
+- Linux
 - Networking fundamentals
 - Bash scripting
-- Docker (learning)
-- .NET / ASP.NET Core
+- Docker
+- .NET / ASP.NET Core / C#
 - PostgreSQL
 
 ---
@@ -30,19 +26,11 @@ I'm focused on building real-world infrastructure environments and improving my 
 - ⚙️ DevOps Lab (coming soon)
 
 ---
-
-## 📫 Contact
-
-- LinkedIn: (coloca aqui)
-- Email: seuemail@email.com
-  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=helviuni9&show_icons=true&theme=radical)
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Helvis-C#" height="50" width="50" src="https://img.icons8.com/?size=100&id=Fycm8TUhWmFU&format=png&color=000000">
-   <img align="center" alt="Helvis-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Helvis-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"      
+  <img align="center" alt="Helvis-C#" height="50" width="50" src="https://img.icons8.com/?size=100&id=Fycm8TUhWmFU&format=png&color=000000">     
 </div>
 
 ##
