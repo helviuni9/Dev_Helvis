@@ -2,7 +2,6 @@
 
 💻 Infrastructure & DevOps  
 🐧 Linux | Networking | Automation  
-⚙️ Building and learning with .NET  
 
 ---
 
